@@ -8,7 +8,7 @@ do {
 
 while (i < 20);
 
-  document.getElementById("").innerHTML = text;
+  document.getElementById("http://sotd.us/qrentellaadams1/mainpage_one.html").innerHTML = text;
 
 var counter = 0;
 
@@ -25,7 +25,7 @@ function sortOddEven(array) {
       default:
         text = "Even you are great!"
     }
-    document.getElementById("").innerHTML = text;
+    document.getElementById("http://sotd.us/qrentellaadams1/mainpage_one.html").innerHTML = text;
 
     // sort the even numbers
     for (let i = 0; i < 2) {

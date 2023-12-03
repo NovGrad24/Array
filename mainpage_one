@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Introduction to JavaScript C1801</title>
+</head>
+
+<body>
+
+  <script>
+    document.write("Loops With Odd and Even Numbers");
+  </script>
+
+<script src="qrentellaadams1/pagethree.js"></script>
+
+</body>
+</html>
